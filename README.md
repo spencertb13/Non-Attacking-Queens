@@ -1,2 +1,4 @@
 # Non-Attacking-Queens
-Final Course Project
+
+Prints 92 solutions for placing 8 queens on an 8x8 chessboard without the possibility of any conflicting with another.
+
