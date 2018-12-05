@@ -1,0 +1,11 @@
+public class Driver 
+{
+    public static void main(String args[])
+    {
+        NonAttackingQueens queen = new NonAttackingQueens();
+
+        queen.rowN(0,0);
+
+        System.out.println(queen.print());
+    }
+}
